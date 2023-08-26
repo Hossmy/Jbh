@@ -1,38 +1,9 @@
 EXTM3U:
 
 #EXTINF:-1 group-title="DEPORTES", ESPN1
-http://181.78.24.67:8010/play/a04r/41215098.m3u8
-EXTINF:-1 tvg-logo="https://i.ibb.co/G3X7twQ/espn2ar.png" group-title="DEPORTES", ESPN 2
-http://170.81.240.10:8000/play/a00y/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN EXTRA
-http://170.81.240.10:8000/play/a00z/index.m3u8
+http://185.114.146.101:25461/c7audi847v/3b5rShYoDH/166827?token=GkMOV0pdG18SDFFWDVFXV1ENDlAGAQYPXQlSUgdSBlYHAAcBDgwMXAcXGUNHFxRXAllmXVYVDgdSBl5XBklBFBIEFGlQURtfEgMBVQdSVhBPFk1dX1IWDFUGX1YBU1BVUVNKFElcXUcKFwFSDFdWEE8WXExGUkZYBVw5AVQTCgIEQ1xYTFlVSRJaWz5QBgtTDVAbDhAHFhpGWRUVE18NFA0NShRbXE0XUUFQQw5BVQdRAxsYEFRbQwpEFBwTX0EiLkNKFFxNTQBeRlwOWkFcEBdHGxgQXkdpFlUVEUMAAgwEE0QMGwUbSRJYVBlrAAlcDVFaQFtYWkVGCkRWE0lBDA4PD0JWR2YVWVEXWxZXVApbARtJ
+
 #EXTINF:-1 group-title="DEPORTES", DSPORTS
-http://181.177.255.253:8000/play/a075/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", DSPORTS2
-http://181.177.255.253:8000/play/a076/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", DSPORTS+
-http://181.177.255.253:8000/play/a078/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", DSPORTS FIGHT 
-http://181.177.255.253:8000/play/a077/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN 3
-http://181.177.255.253:8000/play/a06x/index.m3u8
-#EXTINF:-1 group-title="24/7", LOS SIMPSON
-http://00322.xyz:8000/streaming/clients_live.php?username=rances123&password=9IFBBCRBIX&stream=136246&extension=ts
-#EXTINF:-1 group-title="DEPORTES", WIN SPORTS+
-http://00322.xyz:8000/streaming/clients_live.php?username=rances123&password=9IFBBCRBIX&stream=131985&extension=ts
-#EXTINF:-1 group-title="colombia", caracol
-http://00322.xyz:8000/streaming/clients_live.php?username=rances123&password=9IFBBCRBIX&stream=153613&extension=ts
-#EXTINF:-1 group-title="colombia", RCN
-http://00322.xyz:8000/streaming/clients_live.php?username=rances123&password=9IFBBCRBIX&stream=137655&extension=ts
-#EXTINF:-1 group-title="INFANTIL", Cartoon network
-http://00322.xyz:8000/streaming/clients_live.php?username=rances123&password=9IFBBCRBIX&stream=3842&extension=ts
-#EXTINF:-1 group-title="peliculas", HBO FAMILI
-http://00322.xyz:8000/streaming/clients_live.php?username=rances123&password=9IFBBCRBIX&stream=3868&extension=ts
-#EXTINF:-1 group-title="24/7", El chavo
-http://50.7.66.234:8080/streaming/clients_live.php?username=Javier1120&password=112020&stream=18576&extension=ts
-#EXTINF:-1 group-title="24/7", Los Simpson 2
-http://50.7.66.234:8080/streaming/clients_live.php?username=Javier1120&password=112020&stream=29412&extension=ts
-#EXTINF:-1 group-title="CULTURA", HISTORY CHANNEL
-http://190.26.217.123:8000/play/a109/index.m3u8
-#EXTINF:-1 group-title="CULTURA", Discovery channel
-http://50.7.66.234:8080/streaming/clients_live.php?username=Javier1120&password=112020&stream=1155807&extension=ts
+http://23.152.40.4:25461/c7audi847v/3b5rShYoDH/166831?token=GkMOV0pdG18SUABVBgJRBAVWDg0KVQdVV1NeBlRVBVgFBAcFCVMMBFMXGUNHFxRXAllmXVYVDgdSBl5WAElBFBIEFGlQURtfEgMBVQdSVhBPFk1dX1IWDFUGX1YBU1BXWFFKFElcXUcKFwdSDVdREE8WXExGUkZYBVw5AVQTCgIEQ1xYTFlVSRJaWz5QBgtTDVAbDhAGFhpGWRUVE18NFA0NShRbXE0XUUFQQw5BUgJQAxsYEFRbQwpEFBwTX0EiLkNKFFxNTQBeRlwOWkFcEBdHGxgQXkdpFlUVEUMAAgwEE0QMGwUbSRJYVBlrAAlcDVFaQFtYWkVGCkRWE0lBDA4PD0JWR2YVWVEXWxZRVgNQAhtJ
+#EXTINF:-1 group-title="DEPORTES", DSPORTS 2
+http://149.18.83.250:8000/c7audi847v/3b5rShYoDH/154274?token=GkMOV0pdG18SUQQHBlYHUVoAXAEAAwZSVwRXBwIAVFEHUVQADlAOBFUXGUNHFxRXAllmXVYVDgdRBFRSBUlBFBIEFGlQURtfEgMBVQdSVhBPFk1dX1IWDFUGX1YBU1BWWFhKFElcXUcKFwFUBlpREE8WXExGUkZYBVw5AVQTCgIEQ1xYTFlVSRJaWz5QBgtTDVAbDhAHFhpGWRUVE18NFA0NShRbXE0XUUFQQw5BVQZaBBsYEFRbQwpEFBwTX0EiLkNKFFxNTQBeRlwOWkFcEBdHGxgQXkdpFlUVEUMAAgwEE0QMGwUbSRJYVBlrAAlcDVFaQFtYWkVGCkRWE0lBDA4PD0JWR2YVWVEXWxZRVAdWAxtJ
